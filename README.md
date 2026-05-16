@@ -141,7 +141,7 @@ int main() {
 ## OUTPUT
 $ ./sem.o  & $ ipcs
 
-<img width="1440" height="699" alt="image" src="https://github.com/user-attachments/assets/be429bb8-ad2d-4c70-9dc3-858d42aac331" />
+![alt text](1.png)
 
 # RESULT:
 The program is executed successfully.
